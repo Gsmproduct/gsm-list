@@ -6,7 +6,8 @@ public class Mylist {
 
     
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println(" Welcome to Gsmproduct Shop");
+        System.out.println(" hi rohid jan");
     }
     
 }
